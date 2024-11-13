@@ -81,6 +81,8 @@ nav:
         - statistics/hypothesis/ANOVA.md
       - Regression Analysis:
         - statistics/regression/LinearRegression.md
+  - Data Science:
+    - datascience/index.md
 
 plugins:
   - search
